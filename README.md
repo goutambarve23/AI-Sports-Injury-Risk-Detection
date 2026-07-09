@@ -27,3 +27,12 @@ An AI-powered platform designed to analyze athlete movement videos, detect biome
 
 ---
 *This repository has been created as part of the Springboard Program and will be updated regularly as development progresses.*
+
+
+## Milestone 1
+
+- Project Initialization Completed
+- Authentication Completed
+- Athlete Profile Completed
+- Video Upload Completed
+- MediaPipe Integration Completed
